@@ -61,7 +61,7 @@ If you´re looking for a Front-end web developer roadmap, take a look at this [F
 
 <br>
 
-## :trophy: My Github Stats:
+## :trophy: My Github Stats
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=truong-lv&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api?username=truong-lv&count_private=true&show_icons=true&theme=tokyonight" />
@@ -72,7 +72,7 @@ If you´re looking for a Front-end web developer roadmap, take a look at this [F
 </div>
 <br/>
 
-## 📉: Activity Graph
+## 📉 Activity Graph
 
   [![truong-lv's github activity graph](https://activity-graph.herokuapp.com/graph?username=truong-lv&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
