@@ -15,6 +15,7 @@
 </div>
 
 <br/>
+
 ## :trophy: My Github Stats:
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=truong-lv&theme=tokyonight">
@@ -27,7 +28,7 @@
 
 <br/>
 
-
+## 📉: Activity Graph
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=truong-lv&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
