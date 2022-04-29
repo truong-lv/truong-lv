@@ -1,6 +1,6 @@
 <!-- truong-lv -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/truong-lv.svg" width="1200" alt="truong-lv_profile" />
 </a>
 
 ## Hello, I'm Lu Vinh Truong 👋
