@@ -1,10 +1,10 @@
 ## Hello, I'm Lu Vinh Truong 👋
 
 - 🔭 I’m a Front-end Web developer
-- 👨‍🎓 I’m currently learning Software Technology
+- 👨‍🎓 I'm an Software Technology student at PTIT
+- 👯 I’m looking to collaborate with anyone on any project.
 - 📫 How to reach me: truonglv.2609@gmail.com[](mailto:truonglv.2609@gmail.com)
-- ⚡ Fun fact: I like listening to electronic music
-
+- ⚡ Fun fact: I like listening to Electronic and Pop music
 
 
 ## 🧰 Languages and Tools:
