@@ -9,7 +9,7 @@
 - 👨‍🎓 I'm an Software Technology student at PTIT
 - 👯 I’m looking to collaborate with anyone on any project.
 - 📫 How to reach me: truonglv.2609@gmail.com[](mailto:truonglv.2609@gmail.com)
-- ⚡ Fun fact: I like listening to Electronic and Pop music
+- ⚡ Fun fact: I like listening to Electronic and Pop music. Listen to me if you´re too at [My music player](https://truong-lv.github.io/player-music/)
 ### What I'm focusing on 👨‍💻
 
 Currently improving my React skills, specially the core foundations of front-end web programming.<br />
