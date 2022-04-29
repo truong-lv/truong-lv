@@ -18,6 +18,8 @@ If you´re looking for a Front-end web developer roadmap, take a look at this [F
 
 ## 🧰 Technologies and Tools 🛠
 <!-- https://simpleicons.org/ -->
+Note: Languages and tools which are included below,are only these programming languages & tools I have been and are doing so that they doesn't reflect experience or skill level.
+
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
@@ -26,9 +28,9 @@ If you´re looking for a Front-end web developer roadmap, take a look at this [F
 &nbsp;
 <span><img src="https://img.shields.io/badge/Microsoft_SQL_Server-282C34?logo=microsoft-sql-server&logoColor=white" alt="microsoft-sql-server logo" title="microsoft-sql-server" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=white" alt="postgresql logo" title="postgresql" height="25" /></span>
+<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=blue" alt="postgresql logo" title="postgresql" height="25" /></span>
 &nbsp; 
-<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mySql&logoColor=FFFFFF" alt="MySQL logo" title="MySQL" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mySql&logoColor=blue" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery&logoColor=white" alt="jquery logo" title="jquery" height="25" /></span>
 &nbsp;
@@ -45,7 +47,17 @@ If you´re looking for a Front-end web developer roadmap, take a look at this [F
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Java-282C34?&logo=java&logoColor=white" alt="java logo" title="java" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=green" alt="spring logo" title="spring" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/C%23-282C34?logo=c-sharp&logoColor=white" alt="net logo" title="net" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white" alt="unity logo" title="unity" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=white" alt="cpp logo" title="cpp" height="25" /></span>
+&nbsp;
+
 
 <br>
 
