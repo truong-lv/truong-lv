@@ -5,7 +5,6 @@
 
 ## About me 👋
 
-- 🔭 I’m a Front-end Web developer
 - 👨‍🎓 I'm an Software Technology student at PTIT
 - 👯 I’m looking to collaborate with anyone on any project.
 - 📫 How to reach me: truonglv.2609@gmail.com[](mailto:truonglv.2609@gmail.com)
