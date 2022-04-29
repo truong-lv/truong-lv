@@ -20,11 +20,13 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql logo" title="postgresql" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Microsoft_SQL_Server-282C34?logo=microsoft-sql-server&logoColor=white" alt="microsoft-sql-server logo" title="microsoft-sql-server" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=white" alt="postgresql logo" title="postgresql" height="25" /></span>
 &nbsp; 
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mySql&logoColor=FFFFFF" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material-ui logo" title="material-ui" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Material--UI-282C34?logo=material-ui&logoColor=white" alt="material-ui logo" title="material-ui" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
