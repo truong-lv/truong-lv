@@ -5,10 +5,15 @@
 
 ## About me 👋
 
+- I work as a front-end web developer with additional skills that I hone every day
 - 👨‍🎓 I'm an Software Technology student at PTIT
 - 👯 I’m looking to collaborate with anyone on any project.
 - 📫 How to reach me: truonglv.2609@gmail.com[](mailto:truonglv.2609@gmail.com)
 - ⚡ Fun fact: I like listening to Electronic and Pop music
+### What I'm focusing on 👨‍💻
+
+Currently improving my React skills, specially the core foundations of front-end web programming.<br />
+If you´re looking for a Front-end web developer roadmap, take a look at this [Front-end developer roadmap](https://roadmap.sh/frontend).
 
 
 ## 🧰 Technologies and Tools 🛠
@@ -24,6 +29,8 @@
 <span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=white" alt="postgresql logo" title="postgresql" height="25" /></span>
 &nbsp; 
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mySql&logoColor=FFFFFF" alt="MySQL logo" title="MySQL" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery&logoColor=white" alt="jquery logo" title="jquery" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Material--UI-282C34?logo=material-ui&logoColor=white" alt="material-ui logo" title="material-ui" height="25" /></span>
 &nbsp;
