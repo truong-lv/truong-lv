@@ -5,4 +5,6 @@
 - 📫 How to reach me: truonglv.2609@gmail.com[](mailto:truonglv.2609@gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like listening to electronic music
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=truonglv.2609)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=truong-lv)](https://git.io/streak-stats)
