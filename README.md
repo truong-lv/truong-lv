@@ -30,7 +30,7 @@
 
 ## 📉: Activity Graph
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=truong-lv&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![truong-lv's github activity graph](https://activity-graph.herokuapp.com/graph?username=truong-lv&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- Get Visitors and Followers count
