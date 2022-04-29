@@ -7,10 +7,16 @@
 - ⚡ Fun fact: I like listening to electronic music
 
 ## :trophy: My Github Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=truong-lv&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=truong-lv&show_icons=true&theme=tokyonight)
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=truong-lv&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=truong-lv&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=truong-lv&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong-lv&hide=php&theme=tokyonight" />
+</a>
+</div>
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=truong-lv&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=truong-lv&show_icons=true&theme=tokyonight) -->
 
 ## 🧰 Languages and Tools:
 <p align="center">
