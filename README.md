@@ -18,7 +18,7 @@ If you´re looking for a Front-end web developer roadmap, take a look at this [F
 
 ## 🧰 Technologies and Tools 🛠
 <!-- https://simpleicons.org/ -->
-Note: Languages and tools which are included below,are only these programming languages & tools I have been and are doing so that they doesn't reflect experience or skill level.
+<b>Note:</b> Languages and tools which are included below,are only these programming languages & tools I have been and are doing so that they doesn't reflect experience or skill level.
 
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -53,7 +53,7 @@ Note: Languages and tools which are included below,are only these programming la
 &nbsp;
 <span><img src="https://img.shields.io/badge/C%23-282C34?logo=c-sharp&logoColor=white" alt="net logo" title="net" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white" alt="unity logo" title="unity" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=white" alt="unity logo" title="unity" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=white" alt="cpp logo" title="cpp" height="25" /></span>
 &nbsp;
