@@ -74,7 +74,7 @@ If you´re looking for a Front-end web developer roadmap, take a look at this [F
 
 ## 📉 Activity Graph
 
-  [![truong-lv's github activity graph](https://activity-graph.herokuapp.com/graph?username=truong-lv&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![truong-lv's github activity graph](https://activity-graph.herokuapp.com/graph?username=truong-lv&theme=react-dark	)](https://activity-graph.herokuapp.com/graph?username=truong-lv&theme=react-dark)
 
 
 <!-- Get Visitors and Followers count
