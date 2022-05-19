@@ -72,6 +72,17 @@ If you´re looking for a Front-end web developer roadmap, take a look at this [F
 </div>
 <br/>
 
+## ⚔️ Languages
+<div>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=truong-lv&theme=tokyonight&langs_count=10&layout=compact&hide=tsql,html">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong-lv&theme=tokyonight&langs_count=10&layout=compact&hide=tsql,html" />
+</a>
+<!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=truong-lv&hide=php&theme=tokyonight">https://github-readme-stats.vercel.app/api?username=truong-lv&count_private=true&show_icons=true&theme=tokyonight
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong-lv&hide=php&theme=tokyonight" />
+</a> -->
+</div>
+<br/>
+
 ## 📉 Activity Graph
 
   [![truong-lv's github activity graph](https://activity-graph.herokuapp.com/graph?username=truong-lv&theme=react-dark	)](https://activity-graph.herokuapp.com/graph?username=truong-lv&theme=react-dark)
