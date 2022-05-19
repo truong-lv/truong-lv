@@ -5,7 +5,7 @@
 
 ## About me 👋
 
-- I work as a front-end web developer with additional skills that I hone every day
+- I work as front-end web developer with additional skills that I hone every day
 - 👨‍🎓 I'm an Software Technology student at PTIT
 - 👯 I’m looking to collaborate with anyone on any project.
 - 📫 How to reach me: truonglv.2609@gmail.com[](mailto:truonglv.2609@gmail.com)
