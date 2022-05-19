@@ -12,7 +12,7 @@
 - ⚡ I like listening to Electronic and Pop music. Chill with me if you also like at [My_music_player](https://truong-lv.github.io/player-music/)
 ### What I'm focusing on 👨‍💻
 
-Currently improving my React skills, specially the core foundations of front-end web programming.<br />
+Currently improving my skills, specially the core foundations of front-end web programming.<br />
 If you´re looking for a Front-end web developer roadmap, take a look at this [Front-end_developer_roadmap](https://roadmap.sh/frontend).
 
 
