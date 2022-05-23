@@ -22,19 +22,13 @@ If you´re looking for a Front-end web developer roadmap, take a look at this [F
 
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Java-282C34?&logo=java&logoColor=white" alt="java logo" title="java" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/C%23-282C34?logo=c-sharp&logoColor=white" alt="net logo" title="net" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
-&nbsp; -->
-<span><img src="https://img.shields.io/badge/Microsoft_SQL_Server-282C34?logo=microsoft-sql-server&logoColor=white" alt="microsoft-sql-server logo" title="microsoft-sql-server" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=blue" alt="postgresql logo" title="postgresql" height="25" /></span>
-&nbsp; 
-<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mySql&logoColor=blue" alt="MySQL logo" title="MySQL" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery&logoColor=white" alt="jquery logo" title="jquery" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Material--UI-282C34?logo=material-ui&logoColor=white" alt="material-ui logo" title="material-ui" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
@@ -42,23 +36,20 @@ If you´re looking for a Front-end web developer roadmap, take a look at this [F
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp; -->
+<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Material--UI-282C34?logo=material-ui&logoColor=white" alt="material-ui logo" title="material-ui" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-<!-- <span><img src="https://img.shields.io/badge/Java-282C34?&logo=java&logoColor=white" alt="java logo" title="java" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Microsoft_SQL_Server-282C34?logo=microsoft-sql-server&logoColor=white" alt="microsoft-sql-server logo" title="microsoft-sql-server" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=green" alt="spring logo" title="spring" height="25" /></span> -->
+<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=blue" alt="postgresql logo" title="postgresql" height="25" /></span>
+&nbsp; 
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mySql&logoColor=blue" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C%23-282C34?logo=c-sharp&logoColor=white" alt="net logo" title="net" height="25" /></span>
-&nbsp;
-<!-- <span><img src="https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=white" alt="unity logo" title="unity" height="25" /></span>
-&nbsp; -->
 <span><img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=white" alt="cpp logo" title="cpp" height="25" /></span>
 &nbsp;
-
-
 <br>
 
 ## :trophy: My Github Stats
@@ -66,9 +57,6 @@ If you´re looking for a Front-end web developer roadmap, take a look at this [F
 <a href="https://github-readme-stats.vercel.app/api?username=truong-lv&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api?username=truong-lv&theme=tokyonight" />
 </a>
-<!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=truong-lv&hide=php&theme=tokyonight">https://github-readme-stats.vercel.app/api?username=truong-lv&count_private=true&show_icons=true&theme=tokyonight
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong-lv&hide=php&theme=tokyonight" />
-</a> -->
 </div>
 <br/>
 
@@ -77,9 +65,6 @@ If you´re looking for a Front-end web developer roadmap, take a look at this [F
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=truong-lv&theme=tokyonight&langs_count=10&layout=compact&hide=tsql,html">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong-lv&theme=tokyonight&langs_count=10&layout=compact&hide=tsql,html" />
 </a>
-<!-- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=truong-lv&hide=php&theme=tokyonight">https://github-readme-stats.vercel.app/api?username=truong-lv&count_private=true&show_icons=true&theme=tokyonight
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=truong-lv&hide=php&theme=tokyonight" />
-</a> -->
 </div>
 <br/>
 
@@ -92,3 +77,11 @@ If you´re looking for a Front-end web developer roadmap, take a look at this [F
 ![](https://visitor-badge.laobi.icu/badge?page_id=truong-lv)
 [![Github](https://img.shields.io/github/followers/truong-lv?label=Follow&style=social)](https://github.com/truong-lv) -->
 
+<!-- OLD SKILLS -->
+<!-- <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
+&nbsp; -->
+<!-- <span><img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=green" alt="spring logo" title="spring" height="25" /></span> 
+<!-- <span><img src="https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=white" alt="unity logo" title="unity" height="25" /></span>
+&nbsp; -->
+<!-- <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp; -->
