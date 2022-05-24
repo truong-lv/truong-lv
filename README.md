@@ -52,6 +52,16 @@ If you´re looking for a Front-end web developer roadmap, take a look at this [F
 &nbsp;
 <br>
 
+
+## 🌃: My Github Streak
+<div>
+<a href="https://github-readme-streak-stats.herokuapp.com?user=truong-lv&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=truong-lv&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
+</div>
+<br/>
+
+
 ## :trophy: My Github Stats
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=truong-lv&theme=tokyonight">
