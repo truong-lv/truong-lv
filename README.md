@@ -15,12 +15,11 @@
 Currently improving my skills, specially the core foundations of front-end web programming.<br />
 If you´re looking for a Front-end web developer roadmap, take a look at this [Front-end_developer_roadmap](https://roadmap.sh/frontend).
 
-
+<!-- 
 ## 🧰 Technologies and Tools 🛠
-<!-- https://simpleicons.org/ -->
-<b>Note:</b> Languages and tools which are included below are only these programming languages & tools I have been and are doing so that they doesn't reflect experience or skill level.
+<b>Note:</b> Languages and tools which are included below are only these programming languages & tools I have been and are doing so that they doesn't reflect experience or skill level. -->
 
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<!-- <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Java-282C34?&logo=java&logoColor=white" alt="java logo" title="java" height="25" /></span>
 &nbsp;
@@ -50,7 +49,7 @@ If you´re looking for a Front-end web developer roadmap, take a look at this [F
 &nbsp;
 <span><img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=c%2B%2B&logoColor=white" alt="cpp logo" title="cpp" height="25" /></span>
 &nbsp;
-<br>
+<br> -->
 
 
 ## 🌃: My Github Streak
@@ -61,7 +60,7 @@ If you´re looking for a Front-end web developer roadmap, take a look at this [F
 </div>
 <br/>
 
-
+<!-- 
 ## :trophy: My Github Stats
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=truong-lv&theme=tokyonight">
@@ -80,7 +79,7 @@ If you´re looking for a Front-end web developer roadmap, take a look at this [F
 
 ## 📉 Activity Graph
 
-  [![truong-lv's github activity graph](https://activity-graph.herokuapp.com/graph?username=truong-lv&theme=react-dark	)](https://activity-graph.herokuapp.com/graph?username=truong-lv&theme=react-dark)
+  [![truong-lv's github activity graph](https://activity-graph.herokuapp.com/graph?username=truong-lv&theme=react-dark	)](https://activity-graph.herokuapp.com/graph?username=truong-lv&theme=react-dark) -->
 
 
 <!-- Get Visitors and Followers count
